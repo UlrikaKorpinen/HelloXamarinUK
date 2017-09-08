@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:HelloXamarinUK"
              x:Class="HelloXamarinUK.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Tervetuloa Xamarin Forms:iin!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
